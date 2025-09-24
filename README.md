@@ -1,10 +1,10 @@
-📌 Bank Marketing Prediction & Segmentation
-📖 Overview
+#📌 Bank Marketing Prediction & Segmentation
+##📖 Overview
 
 This project analyzes the Bank Marketing Dataset (Kaggle) to predict whether a client will subscribe to a term deposit.
 The goal is to help banks optimize marketing campaigns by focusing on the most promising clients.
 
-🎯 Business Problem
+##🎯 Business Problem
 
 Banks spend significant resources calling clients during marketing campaigns.
 However:
@@ -15,7 +15,7 @@ Random calling annoys customers and reduces efficiency.
 
 👉 Using Machine Learning, we predict subscription probabilities and segment clients into high, medium, and low potential.
 
-📊 Dataset
+##📊 Dataset
 
 Source: Bank Marketing Dataset (Kaggle)
 
@@ -33,7 +33,7 @@ Campaign: contact method, previous outcome, campaign calls
 
 Economic Indicators: euribor3m, employment variation rate, etc.
 
-⚙️ Approach
+##⚙️ Approach
 1. Data Preprocessing
 
 Removed duplicates
@@ -70,7 +70,7 @@ Medium Probability (0.4–0.7) → Follow-up needed
 
 Low Probability (<0.4) → Not priority
 
-📈 Business Value
+##📈 Business Value
 
 ✅ Save campaign costs
 ✅ Improve ROI by targeting high-potential clients
@@ -85,7 +85,7 @@ Models: Logistic Regression, Random Forest
 
 Visualization: Power BI Dashboard
 
-📌 Results
+##📌 Results
 
 Logistic Regression Accuracy: ~89%
 
