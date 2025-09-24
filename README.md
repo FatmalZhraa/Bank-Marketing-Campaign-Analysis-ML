@@ -51,8 +51,6 @@ Subscription rates by age, education, job
 Trends over month & weekday
 
 Impact of contact methods & previous outcomes
-![bank dashboard](https://github.com/user-attachments/assets/aae3ffc6-0158-4d86-98f1-fb9c6ad8ec50)
-
 
 3. Modeling
 
@@ -86,6 +84,10 @@ Python: Pandas, Matplotlib, Seaborn, Scikit-learn
 Models: Logistic Regression, Random Forest
 
 Visualization: Power BI Dashboard
+
+## Dashboard
+
+![bank dashboard](https://github.com/user-attachments/assets/aae3ffc6-0158-4d86-98f1-fb9c6ad8ec50)
 
 ## 📌 Results
 
